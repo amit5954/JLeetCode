@@ -1,0 +1,9 @@
+package com.example.com.example.Hard;
+
+public class First {
+    public static void main(String[] args) {
+        System.out.println("First Program in Java");
+
+
+    }
+}
